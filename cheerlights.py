@@ -3,11 +3,9 @@ import urllib2
 import json
 
 
-
 class CheerLights():
     def __init__(self):
         self.lastID = 0
-        self.refresh = 4    # refresh time in secs
         self.urlRoot = "http://api.thingspeak.com/channels/1417/"
         self.colours = []
 
