@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-
+# CheerLights.py - a simple class to get the most recent cheerlight colours
+# Copyright 2014 by Simon Walters from code by Carl Monk https://github.com/ForToffee/CheerLights
 #This program is free software; you can redistribute it and/or
 #modify it under the terms of the GNU General Public License
 #as published by the Free Software Foundation; either version 2
